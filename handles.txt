@@ -1,0 +1,7 @@
+#DECL
+tipo ident ;
+#OPER
+ident = ident signo ident ;
+ident unario ;
+#EOF
+EOF
